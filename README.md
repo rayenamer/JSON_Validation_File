@@ -82,5 +82,4 @@ The collection includes tests for various endpoints to ensure they return the ex
 To use this collection effectively, you need to personalize it for your own use case. You can also utilize the project available in my repository, **SocialMediaProjectApi**, which contains the necessary backend setup and additional resources to help you get started.
 
 ## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Feel free to use this collection as you wish!
