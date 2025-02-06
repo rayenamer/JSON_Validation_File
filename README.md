@@ -16,12 +16,6 @@ This README provides an overview of the **SocialMedia App (DatingApp)** API coll
 
 The **SocialMedia App (DatingApp)** API collection is built using Postman and contains a series of requests that allow developers to interact with the backend. The collection includes endpoints for user management, authentication, and error handling.
 
-## Collection Details
-
-- **Collection Name**: SocialMedia App (DatingApp)
-- **Schema**: [Postman Collection Schema](https://schema.getpostman.com/json/collection/v2.1.0/collection.json)
-- **Collection Link**: [View Collection](https://restless-satellite-764890.postman.co/workspace/DatingApp---Net8~c77379e2-ce60-4dc7-996f-9403ea65624e/collection/2726016-11b3d815-f24f-4f3b-aa76-8115809ed3bf?action=share&source=collection_link&creator=2726016)
-
 ## Environment Variables
 
 The collection uses the following environment variable:
